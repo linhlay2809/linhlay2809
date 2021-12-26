@@ -4,8 +4,8 @@
 - 🌱 I’m currently learning at Nguyen Tat Thanh University.
 - 🤩 My hobbies are listening to music, gym and playing games.
 * 📫 Contact me:
-  * ✉ Gmail       :  linhlay2809@gmail.com.
-  * 📞 Phone number:  0338263947 
+  * ✉  Gmail: linhlay2809@gmail.com.
+  * 📞 Facebook: https://www.facebook.com/linhlay2802
         
 <!---
 linhlay2809/linhlay2809 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
