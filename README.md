@@ -1,8 +1,9 @@
-![Back_Ground](https://assetstorev1-prd-cdn.unity3d.com/key-image/bfbdbf24-0ffa-4148-8b22-84e3d3cfd85e.jpg)
+![LLStudio](https://user-images.githubusercontent.com/84113503/165054118-5ff08eb7-77eb-4e0d-9440-267cd0cdaa5a.png)
+
 - 👋 Hi, I’m Đang Quang Linh.
-- 👀 I want to be a game developer.
-- 🌱 I’m currently learning at Nguyen Tat Thanh University.
+- 👀 I'm a game developer with 2 years of experience
 - 🤩 My hobbies are listening to music, gym and playing games.
+- 🎮 My games: https://quanglinh.itch.io/
 * 📫 Contact me:
   * ✉  Gmail: linhlay2809@gmail.com.
   * 📞 Facebook: https://www.facebook.com/linhlay2802
@@ -13,3 +14,4 @@ You can click the Preview link to take a look at your changes.sss
 --->
 
   
+
