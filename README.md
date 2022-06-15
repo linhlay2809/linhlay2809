@@ -5,7 +5,7 @@
 - 🤩 My hobbies are listening to music, gym and playing games.
 - 🎮 My games: https://quanglinh.itch.io/
 * 📫 Contact me:
-  * ✉  Gmail: linhlay2809@gmail.com.
+  * ✉  Gmail: dangquanglinh2809@gmail.com
   * 📞 Facebook: https://www.facebook.com/linhlay2802
         
 <!---
