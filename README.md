@@ -20,7 +20,7 @@
 - 🎮 My games: https://quanglinh.itch.io/
 - ✉  Gmail: dangquanglinh2809@gmail.com
 
-<br><br>
+<br><br><br>
 
 <!--- Show Skills (Skill Icon) --->
 <div align="center">
