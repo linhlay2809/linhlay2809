@@ -51,9 +51,10 @@
 </h2>
 
 <div align="center">
- <a href="https://www.facebook.com/profile.php?id=100083642858860"><img src="https://img.shields.io/badge/Facebook-%231877F2.svg?style=for-the-badge&logo=Facebook&logoColor=white" /></a>&ensp;
- <a href="https://www.instagram.com/ll_studio2022/"><img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white" /></a>&nbsp;
-<a href="https://www.reddit.com/user/LLStudio_2022"><img src="https://img.shields.io/badge/Reddit-%23FF4500.svg?style=for-the-badge&logo=Reddit&logoColor=white" />  </a>&ensp;
+ <a href="https://www.facebook.com/profile.php?id=100083642858860"><img src="https://img.shields.io/badge/Facebook-%231877F2.svg?style=for-the-badge&logo=Facebook&logoColor=white" />
+ </a>&ensp;
+ <a href="https://www.instagram.com/ll_studio2022/"><img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white" /></a>&ensp;
+<a href="https://www.reddit.com/user/LLStudio_2022"><img src="https://img.shields.io/badge/Reddit-%23FF4500.svg?style=for-the-badge&logo=Reddit&logoColor=white" />  </a>&nbsp;
  <a href="https://twitter.com/LLStudio_2022"><img src="https://img.shields.io/badge/Twitter-%231DA1F2.svg?style=for-the-badge&logo=Twitter&logoColor=white" /></a>&ensp;
  <a href="mailto:dangquanglinh2809@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
 </div>
