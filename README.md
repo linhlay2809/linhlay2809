@@ -17,6 +17,7 @@
  
 - 👀 I'm a game developer with 2 years of experience.
 - 🤩 Current job is making games and graphic design like 2D, 3D, VFX.
+- 🎨 ArtStation: https://www.artstation.com/ll_studio/profile
 - 🎮 My games: https://quanglinh.itch.io/
 - ✉  Gmail: dangquanglinh2809@gmail.com
 
